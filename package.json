@@ -1,0 +1,24 @@
+{
+  "name": "memoized",
+  "version": "1.0.0",
+  "description": "![alt text](image.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbergot/memoized-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbergot/memoized-example/issues"
+  },
+  "homepage": "https://github.com/fbergot/memoized-example#readme",
+  "dependencies": {
+    "clinic": "^13.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
